@@ -269,6 +269,18 @@ dmypy.json
 *.db
 *.sqlite3
 
+# Large datasets
+*.csv
+creditcard.csv
+*.xlsx
+*.xls
+
+# ML model files
+*.pkl
+*.joblib
+*.h5
+*.model
+
 # Sensitive files
 application-prod.properties
 application-dev.properties
